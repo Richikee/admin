@@ -1,7 +1,8 @@
+<?php 
+include('includes/header.php');
+include('includes/menubar.php');
 
-
-       
-
+?>
         <!-- Content Wrapper -->
         <div id="content-wrapper" class="d-flex flex-column">
 
