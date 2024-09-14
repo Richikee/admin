@@ -548,14 +548,13 @@ include('includes/menubar.php');
             <!-- End of Main Content -->
 
 
-        </div>
-        <!-- End of Content Wrapper -->
-
     </div>
     <!-- End of Page Wrapper -->
 
     
-
+<?php
+include('includes/scripts.php');
+include('includes/footer.php');
     
-   
+?>
 
