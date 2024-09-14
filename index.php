@@ -1,6 +1,6 @@
 <?php 
 include('includes/header.php');
-include('includes/menubar.php');
+include('includes/navbar.php');
 
 ?>
         <!-- Content Wrapper -->
